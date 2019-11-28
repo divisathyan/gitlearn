@@ -5,3 +5,5 @@ Update 1 directly on remote server
 Update 2 directly on remote server
 
 Line1 added from master
+
+Line2 added from master
