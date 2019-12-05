@@ -5,3 +5,4 @@ Adding line in fbranch2
 Line1 from fb2,Line2 from fb2
 
 This is the latest change to master 16:10
+Line added in branch 2 at 16:17
