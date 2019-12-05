@@ -4,4 +4,8 @@ Adding line in fbranch2
 
 Line1 from fb2,Line2 from fb2
 
+<<<<<<< HEAD
 Line added from master
+=======
+aajfhidhfjdhfjdhfjdhf
+>>>>>>> 1 from fb2
